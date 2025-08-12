@@ -48,7 +48,7 @@ cp left/CURRENT.UF2 /Volumes/NICENANO/
 
 ## wired layout in vial
 
-The layout I use on my wired silakka54 is [here](#vial/layout.vil) 
+The layout I use on my wired silakka54 is [here](vial/layout.vil) 
 
 ![vial](img/vial.png)
 
