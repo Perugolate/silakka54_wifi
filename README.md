@@ -44,3 +44,7 @@ cp left/CURRENT.UF2 /Volumes/NICENANO/
 
 ![raise-layer](img/zmk_layer_raise.png)
 
+## wired layout in vial
+
+![vial](img/vial.png)
+
