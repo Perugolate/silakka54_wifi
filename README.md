@@ -40,11 +40,15 @@ cp left/CURRENT.UF2 /Volumes/NICENANO/
 
 9. You should now be able to connect via bluetooth to the master board and use both boards.
 
+## layout in zmk studio
+
 ![base-layer](img/zmk_layer_base.png)
 
 ![raise-layer](img/zmk_layer_raise.png)
 
 ## wired layout in vial
+
+The layout I use on my wired silakka54 is [here](#vial/layout.vil) 
 
 ![vial](img/vial.png)
 
